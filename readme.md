@@ -2,7 +2,7 @@
 # 🕵️ TSCM Hunter V2.0
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-beta6%2Ftscm--hunter-blue?logo=github)](https://github.com/beta6/tscm-hunter)
-[![Documentation](https://img.shields.io/badge/TuxRincon-Read_the_Blog_Post-orange)](https://www.tuxrincon.com/es/blog/tscm-hunter-anti-surveillance)
+[![Documentation](https://img.shields.io/badge/TuxRincon-Read_the_Blog_Post-orange)](https://www.tuxrincon.com/es/mblog/tscm-hunter-anti-surveillance/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Platform](https://img.shields.io/badge/Platform-Kali%20Linux%20%7C%20Debian-dragon)](https://www.kali.org/)
 
@@ -10,7 +10,7 @@
 
 Whether you are performing routine physical security audits or searching for unverified transmitters, TSCM Hunter helps locate covert RF bugs, hidden IP cameras, rogue Bluetooth trackers, and active cellular bursts.
 
-**📖 Extended Documentation & Technical Details:** Read the full article on technical mechanics, signal analysis, and real-world field use cases at [Tux Rincon: TSCM Hunter Anti-Surveillance](https://www.tuxrincon.com/es/blog/tscm-hunter-anti-surveillance).
+**📖 Extended Documentation & Technical Details:** Read the full article on technical mechanics, signal analysis, and real-world field use cases at [Tux Rincon: TSCM Hunter Anti-Surveillance](https://www.tuxrincon.com/es/mblog/tscm-hunter-anti-surveillance).
 
 ---
 
@@ -295,7 +295,7 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
 This project was designed, developed, and tested under the conceptual and technical supervision of **[beta6](https://github.com/beta6)**.
 
 For further guides, technical writeups, and security research related to Linux, penetration testing, and counter-surveillance techniques, visit the official blog:
-👉 **[Tux Rincon Blog](https://www.tuxrincon.com/es/blog/tscm-hunter-anti-surveillance)**
+👉 **[Tux Rincon Blog](https://www.tuxrincon.com/es/mblog/tscm-hunter-anti-surveillance)**
 
 ---
 
