@@ -3,7 +3,7 @@
 
 TSCM Hunter is an open-source Technical Surveillance Counter-Measures suite designed for Kali Linux. It transforms your laptop, a low-cost RTL-SDR receiver, and your network adapters into a unified station to sweep and detect covert espionage devices (radio microphones, hidden IP cameras, Bluetooth trackers, and cellular transmitters).
 
-**📖 Extended Documentation & Technical Details:** You can read the full article on how this tool works under the hood and practical use cases at Tux Rincon - TSCM Hunter: Kali Linux Barrido Escuchas.
+**📖 Extended Documentation & Technical Details:** You can read the full article on how this tool works under the hood and practical use cases at 
 
 ## ✨ Main Features
 
