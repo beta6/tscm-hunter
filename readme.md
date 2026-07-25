@@ -104,7 +104,7 @@ Clone the [official repository](https://github.com/beta6/tscm-hunter), navigate 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/beta6/tscm-hunter.git](https://github.com/beta6/tscm-hunter.git)
+git clone https://github.com/beta6/tscm-hunter.git
 
 # Enter project directory
 cd tscm-hunter
