@@ -1,0 +1,7 @@
+scapy
+numpy
+scipy
+sounddevice
+pyrtlsdr
+pyrtlsdr[lib]
+rich
