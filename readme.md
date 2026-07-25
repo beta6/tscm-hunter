@@ -1,4 +1,4 @@
-```markdown
+
 # 🕵️ TSCM Hunter V2.0
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-beta6%2Ftscm--hunter-blue?logo=github)](https://github.com/beta6/tscm-hunter)
@@ -127,8 +127,6 @@ sudo apt-get install -y python3 python3-pip rtl-sdr sox libsox-fmt-all iw wirele
 pip3 install -r requirements.txt
 
 ```
-
----
 
 ## 🛠️ Usage and Switches
 
