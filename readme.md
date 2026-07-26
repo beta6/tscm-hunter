@@ -303,9 +303,11 @@ For further guides, technical writeups, and security research related to Linux, 
 
 **This software is provided STRICTLY for educational, research, and authorized security auditing purposes.**
 
-* **Technical Limitations & Hardware Realism:** Low-cost RTL-SDR receivers provide accessible entry-level spectrum analysis, but **do not** replace professional laboratory spectrum analyzers, non-linear junction detectors (NLJD), or certified TSCM hardware. False positives may occur due to local noise floors, ambient harmonics, or front-end tuner saturation. Do not rely exclusively on this tool to certify high-security environments.
-* **Authorized Use and Legal Compliance:** Radio frequency monitoring and wireless packet capture are governed by local and international telecommunications regulations. Run this tool strictly on systems, networks, and physical locations where you have explicit, written authorization from the property owner or governing authority.
-* **Disclaimer of Liability:** Neither the author (**beta6**) nor **Tux Rincon** assume any liability for damage, financial loss, regulatory violations, or legal actions resulting from misuse of this software.
+* **Technical Limitations & Hardware Realism:** A low-cost RTL-SDR receiver is an excellent learning and initial analysis tool, but it DOES NOT replace a professional laboratory spectrum analyzer or a Non-Linear Junction Detector (NLJD). The tool will generate false positives due to background noise, harmonics from legitimate devices (routers, repeaters, DVB television), or simple tuner overload. Do not rely on this software as the sole means to certify the absolute security of a corporate or government environment.
+
+* **Authorized Use and Legal Compliance:** Intercepting wireless traffic (Wi-Fi monitor mode) and monitoring the radio frequency spectrum is regulated by law in most countries. Run this tool only on your own systems and properties, or in environments where you have the explicit, written authorization of the owner.
+
+* **Disclaimer of Liability:** Neither the author (beta6) nor Tux Rincon are responsible for any damage, harm, loss of privacy, or legal penalty arising from the improper use of this software. The knowledge acquired must be used ethically and legally.
 
 ```
 
